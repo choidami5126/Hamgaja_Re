@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "최호텔",
+      "star": "2성급",
+      "score": "",
+      "address": "강남구 ���호��로 126",
+      "description": "숙소소개 입니다.",
+      "price": "",
+      "ownerComment": "깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요깨끗하게 써주세요",
+      "id": 1
+    },
+    {
+      "name": "양호텔",
+      "star": "5성급",
+      "score": "",
+      "address": "홍대",
+      "description": "깨끗해요",
+      "price": "",
+      "ownerComment": "아마도?",
+      "id": 2
+    },
+    {
+      "name": "박호텔",
+      "star": "5성급",
+      "score": "",
+      "address": "함경도",
+      "description": "김김",
+      "price": "",
+      "ownerComment": "박박",
+      "id": 3
+    },
+    {
+      "name": "백호텔",
+      "star": "1성급",
+      "score": "",
+      "address": "평양",
+      "description": "어두워요",
+      "price": "",
+      "ownerComment": "수염",
+      "id": 4
+    },
+    {
+      "name": "윤호텔",
+      "star": "5성급",
+      "score": "",
+      "address": "강원도",
+      "description": "감자",
+      "price": "",
+      "ownerComment": "감자",
+      "id": 5
+    }
+  ]
+}
